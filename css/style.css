@@ -31,7 +31,7 @@ a{outline:none; text-decoration:none; color:#ffffff; background-color:#000000;si
 
 div.entete{display:block; width:100%; margin-right: 20px; text-align:center;}
 
-div.entete h1, div.entete h2, div.entete h3, div.entete h4, div.entete h5, div.entete h6{position:center;margin-left: 10px; padding:0; font-size:50px; font-weight:normal; line-height:normal;}
+div.entete h1, div.entete h2, div.entete h3, div.entete h4, div.entete h5, div.entete h6{position:center;margin-left: 10px; padding:0; font-size:30px; font-weight:normal; line-height:normal;}
 .col1{color:#666666; background-color:#000000;}
 .col2{color:#E5E5E5; background-color:#000000; box-shadow: 20px;}
 .col3{color:#E5E5E5; background-color:#000000; padding:20px 0; border-bottom:1px solid #839B05;}
